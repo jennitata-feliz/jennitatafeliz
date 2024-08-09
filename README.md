@@ -4,7 +4,9 @@ meu nome é Jennifer Tavares
 
 
 *Estou estudando na Alura
+
 *Estou me desenvolvendo
+
 *Utilizo esse espaço para inha organização e compartilhamento dos meu projetos desenvolvidos
 
 
